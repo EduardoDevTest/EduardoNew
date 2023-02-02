@@ -7,3 +7,9 @@ com os mais em menos em como ser
 
 
 SELECT * FROM 
+
+
+
+
+
+select * from 
