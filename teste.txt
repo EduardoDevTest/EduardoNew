@@ -1,15 +1,41 @@
-com os mais em menos em como ser em mais em
+Removendo arquivos da area de stage (area de stage são os arquivos que serão salvos)
+- Git status 
+- git reset (esse comando volta os arquivos com o add, ou seja que estão na stage area)
+- git log (checar versão)
+- 
+
+Com Desfazer Mudanças salvas
+git status
+Git Reset (remove do stage  
+Git clean -df 
+GIt checkout -- .
+
+
+O que fazer quando abrir o editor VIM 
+Motivos: commit sem msg.
+
+
+Como desfazer o ultimo commit mantendo as modificaões que foram feitas
+           (sem apagar as modifições)     
+git reset --soft HEAD~1 
+
+
+
+Push rejeitado
+- pode ser por erro de senha padrão de commit etc... 
+
+- rejeiado por estorico divergente entre os repositórios remoto e local
+
+-> vc precisa atualizar o repositório local
+ git pull origin Branch escolhida
+ 
+ 
+ 
+ claro
+ 
 
 
 
 
-com os mais em menos em como ser
 
 
-SELECT * FROM 
-
-
-
-
-
-select * from 
